@@ -1,4 +1,4 @@
-# MultiMedia1
+# MultiMedia1 - resampling & Filtering
 This project covers resampling and filtering and how it affects visual media types like images and video.
 
 Images are getting larger and larger in size and sometimes cannot be properly viewed on a computing screen. This application will help view the
